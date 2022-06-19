@@ -1,5 +1,5 @@
 # Imperative-Programming-PL-
-Imperative Programming Laboratories. All exercises rated 100%
+Imperative Programming Laboratories at AGH UST. All exercises rated 100%
 ### Laboratories
 Laboratories are focused on algorithmic problems and on learning C programming language.
-Some exercises are take straight from programming olymics.
+Some exercises were taken straight from programming olympics.
